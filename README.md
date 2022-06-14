@@ -7,6 +7,12 @@ JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic 
 
 Link to project: http://live-demos.com/
 
+![localhost_1000_ (2)](https://user-images.githubusercontent.com/101936420/173607218-19381381-79b7-40e4-a56f-de75cf45d967.png)
+
+![localhost_1000_login (1)](https://user-images.githubusercontent.com/101936420/173607238-d37f0cbe-5207-486e-95bf-fb3f8f9228b5.png)
+
+![localhost_1000_profile (1)](https://user-images.githubusercontent.com/101936420/173607258-b82c8298-750b-41fd-93f3-ee236c1ec4cd.png)
+
 ## Design
 A simple, chic, mysterious, allure represented by an off-black and cream design color combination. I chose the illustrative “rumble brave” typeface juxtaposed with the modern fresh feel of “helvetica” light. 
 
