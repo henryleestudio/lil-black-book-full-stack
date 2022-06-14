@@ -44,5 +44,5 @@ Contacting me directly? <br>
 Booking a session for creative direction? <br>
 Inquiring about software engineer opportunities? <br>
 <br>
-Visit <a href = "https://henrylee.studio/">henryleestudio.com</a>
+Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 </section>
