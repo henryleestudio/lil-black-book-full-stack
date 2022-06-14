@@ -1,2 +1,2 @@
 # lil-black-book
-Keep a list of romantic interests 
+A simple list of romantic interests 
